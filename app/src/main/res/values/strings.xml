@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">instant_messanger</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="type_message">Type Message..</string>
+</resources>
